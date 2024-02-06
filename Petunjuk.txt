@@ -1,9 +1,1 @@
-Framework Laravel10
---------------------------------------------------------------------------------------------------------------------------------
-Start server menggunakan CMD > directory > php artisan serve > http://127.0.0.1:8000/login
---------------------------------------------------------------------------------------------------------------------------------
-10121271 - Iqbal Akbar RF
---------------------------------------------------------------------------------------------------------------------------------
-Mohon maaf Pak, saya menggunakan laravel10 dikarenakan saat mencoba berulang kali menggunakan CI4 selalu terjadi kendala error
-sejak mengikuti modul dari awal, kedepannya akan saya coba perbaiki kendalanya Pak.
---------------------------------------------------------------------------------------------------------------------------------
+
