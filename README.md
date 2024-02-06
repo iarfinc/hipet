@@ -13,4 +13,6 @@ Start server menggunakan CMD > directory > php artisan serve > http://127.0.0.1:
 10121271 - Iqbal Akbar RF
 
 10121277 - M Farhan Mustopa
+
+IF - 7 | RPL 2 | 2023 - 2024
 -------------------------------------------------------------------------------------------------------------------------
